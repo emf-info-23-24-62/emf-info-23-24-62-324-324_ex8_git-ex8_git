@@ -1,3 +1,4 @@
 TITLE: Demo App Modification
 Hello World Teeeeeesssstttt
+Hello World  mes modifs sont pas très pro franchement ça pourrait être mieux et plus intéressant là ça manque de vie et tout et tout bref je vais écrire tout ce que j'entends dans le groupe derrière moi il va mettre les verts avant le rouge ? non non il va pas faire sa rebase il va se qu'on veut c'est reprendre ce qu'il y a mais le rebase on le fait sur le main ? non non surtout pas on le fait sur la branche on reconstruit jamais l'historique sur la branche donc en gros on le refais
 END (❁´◡`❁) modif 2 et encore 3
